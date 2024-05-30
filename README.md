@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Nice to meet you! I am Carolina Queiroz, a Ph.D. physicist. I have worked for more than 10 years with the analysis of big data in astronomy, including the identification of quasars in multi-band surveys, estimation of photometric redshifts, frameworks for generating mock catalogs, and mapping large-scale structure. Currently, I am in career transition, and I am interested in machine learning, IT assessment management, agile project management, and artificial intelligence.
+Nice to meet you! I am Carolina Queiroz, Ph.D. in Physics. I have worked for more than 10 years with the analysis of big data in extragalactic astronomy/cosmology, including the identification of quasars in multi-band surveys, estimation of photometric redshifts, frameworks for generating mock catalogs, and mapping large-scale structure. Currently, I am in career transition, and I am interested in machine learning, IT assessment management, agile project management, and artificial intelligence.
 
 - 📌 São Paulo, Brazil
 - 🔭 Currently working on how to explore data science for building significant interactions with stakeholders 
 - 🌱 Machine learning for credit risk prediction
 - 🔡 Portuguese, English, Spanish, French
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have read almost all Agatha Christie novels
+- ⚡ Fun fact: I have read 84+1 Agatha Christie/Mary Westmacott novels
 
 ## Connect with me
 
